@@ -3,7 +3,7 @@ Library for who wants to give response more readable
 
 ### Usage;
 ```javascript
-const response = require('Response');
+const response = require('respontor');
 
 response.json({
   message: 'This is success message',
