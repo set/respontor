@@ -1,0 +1,16 @@
+{
+  "name": "respontor",
+  "version": "1.0.0",
+  "description": "Library for who wants to give response more readable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/set/respontor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
