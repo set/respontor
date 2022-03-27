@@ -4,13 +4,20 @@
   "description": "Library for who wants to give response more readable",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests/respontor.test.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/set/respontor.git"
   },
-  "keywords": ["response", "ssr", "response creator"],
+  "keywords": [
+    "response",
+    "ssr",
+    "response creator"
+  ],
   "author": "Servet Tuncel",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6"
+  }
 }
