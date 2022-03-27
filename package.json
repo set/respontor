@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/set/respontor.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["response", "ssr", "response creator"],
+  "author": "Servet Tuncel",
   "license": "ISC"
 }
